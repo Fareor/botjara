@@ -167,4 +167,4 @@ async def save(ctx):
 
     else:
       await('Мне нужно фото кота чтобы определить его породу!')
-bot.run("MTE2MDQ4MDA5MjI1NDkwODQ0Nw.GG4lK-.z_MqukF8Krzi356nWBmvrNNVqGf5z548O58i_k")
+bot.run("token")
